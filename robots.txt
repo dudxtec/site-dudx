@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://dudx.com.br/sitemap.xml
